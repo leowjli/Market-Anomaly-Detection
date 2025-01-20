@@ -4,5 +4,5 @@ matplotlib
 seaborn
 streamlit
 pandas
-sklearn
+scikit-learn
 openai
